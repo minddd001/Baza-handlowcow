@@ -1,0 +1,14 @@
+Handlowiec nr 6
+Miesięczna wartość sprzedaży:
+Miesiąc nr 1: 4103 zł
+Miesiąc nr 2: 1521 zł
+Miesiąc nr 3: 11495 zł
+Miesiąc nr 4: 10352 zł
+Miesiąc nr 5: 19166 zł
+Miesiąc nr 6: 14338 zł
+Miesiąc nr 7: 4987 zł
+Miesiąc nr 8: 9303 zł
+Miesiąc nr 9: 1891 zł
+Miesiąc nr 10: 52787 zł
+Miesiąc nr 11: 14744 zł
+Miesiąc nr 12: 33941 zł

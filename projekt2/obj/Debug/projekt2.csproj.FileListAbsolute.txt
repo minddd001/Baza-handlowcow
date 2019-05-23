@@ -1,0 +1,31 @@
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\projekt2.Form1.resources
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\projekt2.Properties.Resources.resources
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\projekt2.csproj.GenerateResource.cache
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\projekt2.Form2.resources
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\projekt2.Form3.resources
+C:\Users\Kub\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.exe.config
+C:\Users\Kub\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.exe.manifest
+C:\Users\Kub\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.application
+C:\Users\Kub\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.exe
+C:\Users\Kub\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.pdb
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\Raportowanie danych handlowców.exe.manifest
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\Raportowanie danych handlowców.application
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\Raportowanie danych handlowców.exe
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\Raportowanie danych handlowców.pdb
+C:\Users\Kub\Desktop\projekt2\projekt2\obj\Debug\projekt2.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\Raportowanie danych handlowców.exe
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\Raportowanie danych handlowców.pdb
+C:\Users\Magda\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.exe.config
+C:\Users\Magda\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.exe.manifest
+C:\Users\Magda\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.application
+C:\Users\Magda\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.exe
+C:\Users\Magda\Desktop\projekt2\projekt2\bin\Debug\Raportowanie danych handlowców.pdb
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\projekt2.Form1.resources
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\projekt2.Form2.resources
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\projekt2.Form3.resources
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\projekt2.Properties.Resources.resources
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\projekt2.csproj.GenerateResource.cache
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\Raportowanie danych handlowców.exe.manifest
+C:\Users\Magda\Desktop\projekt2\projekt2\obj\Debug\Raportowanie danych handlowców.application
